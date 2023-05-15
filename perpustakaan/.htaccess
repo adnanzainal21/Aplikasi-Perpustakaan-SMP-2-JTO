@@ -1,0 +1,17 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteRule ^masuk$ login.php [L]
+RewriteRule ^pendaftaran$ register.php [L]
+RewriteRule ^lupa-password$ forgot_password.php [L]
+RewriteRule ^lupa-sandi-web$ password-web.php [L]
+
+#User
+RewriteRule ^user$ app/user [L]
+
+#Admin
+RewriteRule ^admin$ app/admin [L]
+
+#Pemindai QR
+RewriteRule ^pindai-qr$ app/scanner [L]
+</IfModule>

@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+ErrorDocument 404 http://localhost/Perpustakaan/404
+
+RewriteRule ^dashboard$ home.php [L]
+RewriteRule ^peminjaman-buku$ home.php?module=pages/views/v_peminjaman [L]
+RewriteRule ^pengembalian-buku$ home.php?module=pages/views/v_pengembalian [L]
+RewriteRule ^profil-saya$ home.php?module=pages/views/v_profil [L]
+RewriteRule ^pesan$ home.php?module=pages/views/v_pesan [L]
+
+RewriteRule ^keluar$ logout.php [L]
+</IfModule>
