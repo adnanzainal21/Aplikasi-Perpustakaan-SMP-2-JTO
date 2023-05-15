@@ -3,4 +3,4 @@ Aplikasi Perpustakaan SMP 2 JTO
 
 
 
-## di buat oleh adnan zaina. a. md. ak
+## di buat oleh Adnan Zainal. A. Md. Ak
