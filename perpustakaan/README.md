@@ -27,8 +27,8 @@ Password : admin
 
 # Terima Kasih
 <ul>
-    <li> AdminLTE </li>
-    <li> PT. Pacifica Raya Technology </li>
-    <li> Stackoverflow </li>
-    <li> Google </li>
+    <li> Yuli R</li>
+    <li> Iskandar</li>
+    <li> Oprasional Time Adnan </li>
+    <li> Oprasional Time warni </li>
 </ul>
