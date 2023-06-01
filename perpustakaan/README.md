@@ -1,4 +1,4 @@
-# E-PERPUS
+# Perpustakaan Espenero 2023
  Aplikasi perpustakaan sederhana ini dibuat menggunakan Template dari AdminLTE.io dan Menggunakan bahasa pemograman PHP MySQLi. <br> <br>
  Aplikasi ini bebas untuk dikembangkan lagi atau untuk bahan pembelajaran kalian bagi yang mau membuat aplikasi perpustakaan, mungkin bisa mengambil contoh dari aplikasi ini
 
@@ -19,7 +19,7 @@ Password : admin
      <li> Sesuaikan dengan setingan di localhost kalian masing masing </li>
 </ul>
 
-# Terima Kasih Atas bantuan:
+# Terima Kasih Atas Bantuan:
 <ul>
     <li> Yuli in (Spandela or Skanser) </li>
     <li> Iskandar in (Skanja)</li>
